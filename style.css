@@ -1,0 +1,23 @@
+nav{
+    background-color: #D6AFDC;
+    float: left;
+    width: 550px;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav ul a{
+    color: white;
+    text-align: center;
+    list-style: none;
+    padding: 20px;
+}
+
+nav ul a li{
+    display: inline-block;
+}
+
+nav ul a:hover{
+    background-color: blue;
+    cursor: pointer;
+}
